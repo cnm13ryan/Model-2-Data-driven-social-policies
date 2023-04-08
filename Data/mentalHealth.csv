@@ -1,0 +1,82 @@
+Year,Region,Category,Topic,Indicator,Age,Sex,Result,Unit,95% CI (L),95% CI (U),SE,RSE > 25%,Notes,Sex_indicator,Year_Sex,Sex_Year
+2018,ACT,Mental health,Self-rated mental health,1. Excellent/very good,05 to 17,Person,72.7,Per cent,65.3,79.1,3.5,,,Person _ 1. Excellent/very good,2018 Person,Person 2018
+2020,ACT,Mental health,Self-rated mental health,1. Excellent/very good,05 to 17,Person,71.4,Per cent,67.7,74.9,1.8,,,Person _ 1. Excellent/very good,2020 Person,Person 2020
+2018,ACT,Mental health,Self-rated mental health,2. Good,05 to 17,Person,21.1,Per cent,15.2,28.6,3.4,,,Person _ 2. Good,2018 Person,Person 2018
+2020,ACT,Mental health,Self-rated mental health,2. Good,05 to 17,Person,20.8,Per cent,17.8,24.2,1.6,,,Person _ 2. Good,2020 Person,Person 2020
+2018,ACT,Mental health,Self-rated mental health,3. Fair/poor,05 to 17,Person,6.2,Per cent,3.7,10.1,1.6,25.6,,Person _ 3. Fair/poor,2018 Person,Person 2018
+2020,ACT,Mental health,Self-rated mental health,3. Fair/poor,05 to 17,Person,7.7,Per cent,5.9,10.1,1.1,,,Person _ 3. Fair/poor,2020 Person,Person 2020
+2018,ACT,Mental health,Self-rated mental health,1. Excellent/very good,05 to 17,Male,71.7,Per cent,61.9,79.8,4.6,,,Male _ 1. Excellent/very good,2018 Male,Male 2018
+2020,ACT,Mental health,Self-rated mental health,1. Excellent/very good,05 to 17,Male,70.6,Per cent,65.2,75.5,2.6,,,Male _ 1. Excellent/very good,2020 Male,Male 2020
+2018,ACT,Mental health,Self-rated mental health,2. Good,05 to 17,Male,20.9,Per cent,13.6,30.6,4.3,,,Male _ 2. Good,2018 Male,Male 2018
+2020,ACT,Mental health,Self-rated mental health,2. Good,05 to 17,Male,23.2,Per cent,18.8,28.3,2.4,,,Male _ 2. Good,2020 Male,Male 2020
+2018,ACT,Mental health,Self-rated mental health,3. Fair/poor,05 to 17,Male,7.4,Per cent,4.1,13.1,2.2,29.4,,Male _ Fair/poor,2018 Male,Male 2018
+2020,ACT,Mental health,Self-rated mental health,3. Fair/poor,05 to 17,Male,6.2,Per cent,4.2,9.2,1.3,,,Male _ Fair/poor,2020 Male,Male 2020
+2018,ACT,Mental health,Self-rated mental health,1. Excellent/very good,05 to 17,Female,73.8,Per cent,61.9,83,5.4,,,Female _ 1. Excellent/very good,2018 Female,Female 2018
+2020,ACT,Mental health,Self-rated mental health,1. Excellent/very good,05 to 17,Female,72.5,Per cent,67.2,77.2,2.5,,,Female _ 1. Excellent/very good,2020 Female,Female 2020
+2018,ACT,Mental health,Self-rated mental health,2. Good,05 to 17,Female,21.3,Per cent,12.7,33.5,5.3,,,Female _ 2. Good,2018 Female,Female 2018
+2020,ACT,Mental health,Self-rated mental health,2. Good,05 to 17,Female,18.4,Per cent,14.5,23.1,2.2,,,Female _ 2. Good,2020 Female,Female 2020
+2018,ACT,Mental health,Self-rated mental health,3. Fair/poor,05 to 17,Female,4.9,Per cent,2,11.9,2.3,46,,Female _ 3. Fair/poor,2018 Female,Female 2018
+2020,ACT,Mental health,Self-rated mental health,3. Fair/poor,05 to 17,Female,9.2,Per cent,6.3,13,1.7,,,Female _ 3. Fair/poor,2020 Female,Female 2020
+2018,ACT,Mental health,Self-rated mental health,1. Excellent/very good,18+,Person,56,Per cent,52.5,59.5,1.8,,,Person _ 1. Excellent/very good,2018 Person,Person 2018
+2019,ACT,Mental health,Self-rated mental health,1. Excellent/very good,18+,Person,53.4,Per cent,50.4,56.3,1.5,,,Person _ 1. Excellent/very good,2019 Person,Person 2019
+2020,ACT,Mental health,Self-rated mental health,1. Excellent/very good,18+,Person,52,Per cent,48.1,55.8,2,,,Person _ 1. Excellent/very good,2020 Person,Person 2020
+2018,ACT,Mental health,Self-rated mental health,2. Good,18+,Person,27.2,Per cent,24.2,30.5,1.6,,,Person _ 2. Good,2018 Person,Person 2018
+2019,ACT,Mental health,Self-rated mental health,2. Good,18+,Person,29.6,Per cent,27,32.4,1.4,,,Person _ 2. Good,2019 Person,Person 2019
+2020,ACT,Mental health,Self-rated mental health,2. Good,18+,Person,28.4,Per cent,25.1,31.9,1.7,,,Person _ 2. Good,2020 Person,Person 2020
+2018,ACT,Mental health,Self-rated mental health,3. Fair/poor,18+,Person,16.8,Per cent,14.2,19.7,1.4,,,Person _ 3. Fair/poor,2018 Person,Person 2018
+2019,ACT,Mental health,Self-rated mental health,3. Fair/poor,18+,Person,17,Per cent,14.8,19.5,1.2,,,Person _ 3. Fair/poor,2019 Person,Person 2019
+2020,ACT,Mental health,Self-rated mental health,3. Fair/poor,18+,Person,19.7,Per cent,16.8,22.9,1.6,,,Person _ 3. Fair/poor,2020 Person,Person 2020
+2018,ACT,Mental health,Self-rated mental health,1. Excellent/very good,18+,Male,58.5,Per cent,53.3,63.6,2.6,,,Male _ 1. Excellent/very good,2018 Male,Male 2018
+2019,ACT,Mental health,Self-rated mental health,1. Excellent/very good,18+,Male,57.4,Per cent,52.9,61.8,2.3,,,Male _ 1. Excellent/very good,2019 Male,Male 2019
+2020,ACT,Mental health,Self-rated mental health,1. Excellent/very good,18+,Male,56.2,Per cent,50.6,61.6,2.8,,,Male _ 1. Excellent/very good,2020 Male,Male 2020
+2018,ACT,Mental health,Self-rated mental health,2. Good,18+,Male,26.5,Per cent,22.1,31.4,2.4,,,Male _ 2. Good,2018 Male,Male 2018
+2019,ACT,Mental health,Self-rated mental health,2. Good,18+,Male,29.3,Per cent,25.3,33.6,2.1,,,Male _ 2. Good,2019 Male,Male 2019
+2020,ACT,Mental health,Self-rated mental health,2. Good,18+,Male,28.7,Per cent,24,34,2.6,,,Male _ 2. Good,2020 Male,Male 2020
+2018,ACT,Mental health,Self-rated mental health,3. Fair/poor,18+,Male,15,Per cent,11.4,19.4,2,,,Male _ 3. Fair/poor,2018 Male,Male 2018
+2019,ACT,Mental health,Self-rated mental health,3. Fair/poor,18+,Male,13.3,Per cent,10.4,17,1.7,,,Male _ 3. Fair/poor,2019 Male,Male 2019
+2020,ACT,Mental health,Self-rated mental health,3. Fair/poor,18+,Male,15.1,Per cent,11.6,19.3,2,,,Male _ 3. Fair/poor,2020 Male,Male 2020
+2018,ACT,Mental health,Self-rated mental health,1. Excellent/very good,18+,Female,53.6,Per cent,48.9,58.2,2.4,,,Female _ 1. Excellent/very good,2018 Female,Female 2018
+2019,ACT,Mental health,Self-rated mental health,1. Excellent/very good,18+,Female,49.8,Per cent,46,53.7,2,,,Female _ 1. Excellent/very good,2019 Female,Female 2019
+2020,ACT,Mental health,Self-rated mental health,1. Excellent/very good,18+,Female,48.1,Per cent,42.8,53.3,2.7,,,Female _ 1. Excellent/very good,2020 Female,Female 2020
+2018,ACT,Mental health,Self-rated mental health,2. Good,18+,Female,28,Per cent,23.9,32.4,2.2,,,Female _ 2. Good,2018 Female,Female 2018
+2019,ACT,Mental health,Self-rated mental health,2. Good,18+,Female,29.9,Per cent,26.4,33.6,1.8,,,Female _ 2. Good,2019 Female,Female 2019
+2020,ACT,Mental health,Self-rated mental health,2. Good,18+,Female,28.1,Per cent,23.8,32.9,2.3,,,Female _ 2. Good,2020 Female,Female 2020
+2018,ACT,Mental health,Self-rated mental health,3. Fair/poor,18+,Female,18.5,Per cent,15,22.6,2,,,Female _ 3. Fair/poor,2018 Female,Female 2018
+2019,ACT,Mental health,Self-rated mental health,3. Fair/poor,18+,Female,20.3,Per cent,17.2,23.8,1.7,,,Female _ 3. Fair/poor,2019 Female,Female 2019
+2020,ACT,Mental health,Self-rated mental health,3. Fair/poor,18+,Female,23.8,Per cent,19.5,28.8,2.4,,,Female _ 3. Fair/poor,2020 Female,Female 2020
+2018,ACT,Mental health,Self-rated mental health,1. Excellent/very good,18 to 24,Person,39.2,Per cent,26.8,53.2,6.8,,,18 to 24 _ 1. Excellent/very good,2018 Person,Person 2018
+2019,ACT,Mental health,Self-rated mental health,1. Excellent/very good,18 to 24,Person,40.4,Per cent,29,53,6.2,,,18 to 24 _ 1. Excellent/very good,2019 Person,Person 2019
+2020,ACT,Mental health,Self-rated mental health,1. Excellent/very good,18 to 24,Person,31.7,Per cent,19.2,47.4,7.3,,,18 to 24 _ 1. Excellent/very good,2020 Person,Person 2020
+2018,ACT,Mental health,Self-rated mental health,2. Good,18 to 24,Person,32,Per cent,20.6,46.1,6.6,,,18 to 24 _ 2. Good,2018 Person,Person 2018
+2019,ACT,Mental health,Self-rated mental health,2. Good,18 to 24,Person,37.7,Per cent,26.9,49.9,5.9,,,18 to 24 _ 2. Good,2019 Person,Person 2019
+2020,ACT,Mental health,Self-rated mental health,2. Good,18 to 24,Person,28.7,Per cent,16.8,44.5,7.2,,,18 to 24 _ 2. Good,2020 Person,Person 2020
+2018,ACT,Mental health,Self-rated mental health,3. Fair/poor,18 to 24,Person,28.8,Per cent,17.9,42.9,6.4,,,18 to 24 _ 3. Fair/poor,2018 Person,Person 2018
+2019,ACT,Mental health,Self-rated mental health,3. Fair/poor,18 to 24,Person,21.9,Per cent,13.3,33.9,5.2,,,18 to 24 _ 3. Fair/poor,2019 Person,Person 2019
+2020,ACT,Mental health,Self-rated mental health,3. Fair/poor,18 to 24,Person,39.6,Per cent,25.6,55.7,7.9,,,18 to 24 _ 3. Fair/poor,2020 Person,Person 2020
+2018,ACT,Mental health,Self-rated mental health,1. Excellent/very good,25 to 44,Person,55.2,Per cent,49.7,60.5,2.8,,,25 to 44 _ 1. Excellent/very good,2018 Person,Person 2018
+2019,ACT,Mental health,Self-rated mental health,1. Excellent/very good,25 to 44,Person,50,Per cent,45,55,2.6,,,25 to 44 _ 1. Excellent/very good,2019 Person,Person 2019
+2020,ACT,Mental health,Self-rated mental health,1. Excellent/very good,25 to 44,Person,48.3,Per cent,42.4,54.1,3,,,25 to 44 _ 1. Excellent/very good,2020 Person,Person 2020
+2018,ACT,Mental health,Self-rated mental health,2. Good,25 to 44,Person,27.8,Per cent,23.2,32.9,2.5,,,25 to 44 _ 2. Good,2018 Person,Person 2018
+2019,ACT,Mental health,Self-rated mental health,2. Good,25 to 44,Person,31.4,Per cent,26.9,36.3,2.4,,,25 to 44 _ 2. Good,2019 Person,Person 2019
+2020,ACT,Mental health,Self-rated mental health,2. Good,25 to 44,Person,31.4,Per cent,26.3,36.9,2.7,,,25 to 44 _ 2. Good,2020 Person,Person 2020
+2018,ACT,Mental health,Self-rated mental health,3. Fair/poor,25 to 44,Person,17,Per cent,13.3,21.6,2.1,,,25 to 44 _ 3. Fair/poor,2018 Person,Person 2018
+2019,ACT,Mental health,Self-rated mental health,3. Fair/poor,25 to 44,Person,18.6,Per cent,15,23,2,,,25 to 44 _ 3. Fair/poor,2019 Person,Person 2019
+2020,ACT,Mental health,Self-rated mental health,3. Fair/poor,25 to 44,Person,20.4,Per cent,16,25.5,2.4,,,25 to 44 _ 3. Fair/poor,2020 Person,Person 2020
+2018,ACT,Mental health,Self-rated mental health,1. Excellent/very good,45 to 64,Person,59,Per cent,53.7,64.2,2.7,,,45 to 64 _ 1. Excellent/very good,2018 Person,Person 2018
+2019,ACT,Mental health,Self-rated mental health,1. Excellent/very good,45 to 64,Person,57.2,Per cent,53,61.2,2.1,,,45 to 64 _ 1. Excellent/very good,2019 Person,Person 2019
+2020,ACT,Mental health,Self-rated mental health,1. Excellent/very good,45 to 64,Person,52.5,Per cent,46.8,58.3,2.9,,,45 to 64 _ 1. Excellent/very good,2020 Person,Person 2020
+2018,ACT,Mental health,Self-rated mental health,2. Good,45 to 64,Person,25.7,Per cent,21.2,30.8,2.5,,,45 to 64 _ 2. Good,2018 Person,Person 2018
+2019,ACT,Mental health,Self-rated mental health,2. Good,45 to 64,Person,27.3,Per cent,23.8,31,1.8,,,45 to 64 _ 2. Good,2019 Person,Person 2019
+2020,ACT,Mental health,Self-rated mental health,2. Good,45 to 64,Person,29.8,Per cent,24.7,35.5,2.8,,,45 to 64 _ 2. Good,2020 Person,Person 2020
+2018,ACT,Mental health,Self-rated mental health,3. Fair/poor,45 to 64,Person,15.3,Per cent,11.8,19.6,2,,,45 to 64 _ 3. Fair/poor,2018 Person,Person 2018
+2019,ACT,Mental health,Self-rated mental health,3. Fair/poor,45 to 64,Person,15.6,Per cent,12.8,18.9,1.6,,,45 to 64 _ 3. Fair/poor,2019 Person,Person 2019
+2020,ACT,Mental health,Self-rated mental health,3. Fair/poor,45 to 64,Person,17.6,Per cent,14,21.9,2,,,45 to 64 _ 3. Fair/poor,2020 Person,Person 2020
+2018,ACT,Mental health,Self-rated mental health,1. Excellent/very good,65+,Person,66.7,Per cent,60.1,72.6,3.2,,,65+ _ 1. Excellent/very good,2018 Person,Person 2018
+2019,ACT,Mental health,Self-rated mental health,1. Excellent/very good,65+,Person,64.6,Per cent,59.7,69.2,2.4,,,65+ _ 1. Excellent/very good,2019 Person,Person 2019
+2020,ACT,Mental health,Self-rated mental health,1. Excellent/very good,65+,Person,71.1,Per cent,61.4,79.2,4.6,,,65+ _ 1. Excellent/very good,2020 Person,Person 2020
+2018,ACT,Mental health,Self-rated mental health,2. Good,65+,Person,24.8,Per cent,19.4,31.1,3,,,65+ _ 2. Good,2018 Person,Person 2018
+2019,ACT,Mental health,Self-rated mental health,2. Good,65+,Person,23.5,Per cent,19.6,27.9,2.1,,,65+ _ 2. Good,2019 Person,Person 2019
+2020,ACT,Mental health,Self-rated mental health,2. Good,65+,Person,17.4,Per cent,11.5,25.3,3.5,,,65+ _ 2. Good,2020 Person,Person 2020
+2018,ACT,Mental health,Self-rated mental health,3. Fair/poor,65+,Person,8.5,Per cent,5.6,12.9,1.8,,,65+ _ 3. Fair/poor,2018 Person,Person 2018
+2019,ACT,Mental health,Self-rated mental health,3. Fair/poor,65+,Person,12,Per cent,8.8,16,1.8,,,65+ _ 3. Fair/poor,2019 Person,Person 2019
+2020,ACT,Mental health,Self-rated mental health,3. Fair/poor,65+,Person,11.5,Per cent,6.2,20.5,3.5,30.8,,65+ _ 3. Fair/poor,2020 Person,Person 2020

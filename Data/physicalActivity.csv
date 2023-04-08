@@ -1,0 +1,66 @@
+Year,Region,Category,Topic,Indicator,Age,Sex,Result,Unit,95% CI (L),95% CI (U),SE,RSE > 25%,Notes,Sex_indicator,Year_Sex,Sex_Year
+2018,ACT,Physical activity,Self-rated physical activity,1. Very active,05 to 17,Person,49.2,Per cent,43,55.5,3.2,,,Person _ 1. Very active,2018 Person,Person 2018
+2020,ACT,Physical activity,Self-rated physical activity,1. Very active,05 to 17,Person,36.8,Per cent,33.1,40.7,1.9,,,Person _ 1. Very active,2020 Person,Person 2020
+2018,ACT,Physical activity,Self-rated physical activity,2. Active,05 to 17,Person,30.3,Per cent,24.8,36.4,3,,,Person _ 2. Active,2018 Person,Person 2018
+2020,ACT,Physical activity,Self-rated physical activity,2. Active,05 to 17,Person,32.9,Per cent,28.9,37.1,2.1,,,Person _ 2. Active,2020 Person,Person 2020
+2018,ACT,Physical activity,Self-rated physical activity,3. Moderately active,05 to 17,Person,16.2,Per cent,12.1,21.4,2.4,,,Person _ 3. Moderately active,2018 Person,Person 2018
+2020,ACT,Physical activity,Self-rated physical activity,3. Moderately active,05 to 17,Person,23.6,Per cent,20.5,27.1,1.7,,,Person _ 3. Moderately active,2020 Person,Person 2020
+2018,ACT,Physical activity,Self-rated physical activity,4. Not very active,05 to 17,Person,,Per cent,,,,,Not published,Person _ 4. Not very active,2018 Person,Person 2018
+2020,ACT,Physical activity,Self-rated physical activity,4. Not very active,05 to 17,Person,,Per cent,,,,,Not published,Person _ 4. Not very active,2020 Person,Person 2020
+2018,ACT,Physical activity,Self-rated physical activity,5. Not at all active,05 to 17,Person,,Per cent,,,,,Not published,Person _ 5. Not at all active,2018 Person,Person 2018
+2020,ACT,Physical activity,Self-rated physical activity,5. Not at all active,05 to 17,Person,,Per cent,,,,,Not published,Person _ 5. Not at all active,2020 Person,Person 2020
+2018,ACT,Physical activity,Self-rated physical activity,1. Very active,05 to 17,Male,56.1,Per cent,47.5,64.4,4.4,,,Male _ 1. Very active,2018 Male,Male 2018
+2020,ACT,Physical activity,Self-rated physical activity,1. Very active,05 to 17,Male,40,Per cent,34.5,45.8,2.9,,,Male _ 1. Very active,2020 Male,Male 2020
+2018,ACT,Physical activity,Self-rated physical activity,2. Active,05 to 17,Male,29.6,Per cent,22.1,38.4,4.2,,,Male _ 2. Active,2018 Male,Male 2018
+2020,ACT,Physical activity,Self-rated physical activity,2. Active,05 to 17,Male,30.8,Per cent,24.8,37.5,3.2,,,Male _ 2. Active,2020 Male,Male 2020
+2018,ACT,Physical activity,Self-rated physical activity,3. Moderately active,05 to 17,Male,11.1,Per cent,7.4,16.3,2.2,,,Male _ 3. Moderately active,2018 Male,Male 2018
+2020,ACT,Physical activity,Self-rated physical activity,3. Moderately active,05 to 17,Male,21.8,Per cent,17.8,26.5,2.2,,,Male _ 3. Moderately active,2020 Male,Male 2020
+2018,ACT,Physical activity,Self-rated physical activity,4. Not very active,05 to 17,Male,,Per cent,,,,,Not published,Male _ 4. Not very active,2018 Male,Male 2018
+2020,ACT,Physical activity,Self-rated physical activity,4. Not very active,05 to 17,Male,,Per cent,,,,,Not published,Male _ 4. Not very active,2020 Male,Male 2020
+2018,ACT,Physical activity,Self-rated physical activity,5. Not at all active,05 to 17,Male,,Per cent,,,,,Not published,Male _ 5. Not at all active,2018 Male,Male 2018
+2020,ACT,Physical activity,Self-rated physical activity,5. Not at all active,05 to 17,Male,,Per cent,,,,,Not published,Male _ 5. Not at all active,2020 Male,Male 2020
+2018,ACT,Physical activity,Self-rated physical activity,1. Very active,05 to 17,Female,41.7,Per cent,33.1,50.8,4.6,,,Female _ 1. Very active,2018 Female,Female 2018
+2020,ACT,Physical activity,Self-rated physical activity,1. Very active,05 to 17,Female,33.7,Per cent,28.7,39,2.6,,,Female _ 1. Very active,2020 Female,Female 2020
+2018,ACT,Physical activity,Self-rated physical activity,2. Active,05 to 17,Female,31,Per cent,23.3,39.9,4.2,,,Female _ 2. Active,2018 Female,Female 2018
+2020,ACT,Physical activity,Self-rated physical activity,2. Active,05 to 17,Female,35.1,Per cent,30.1,40.5,2.7,,,Female _ 2. Active,2020 Female,Female 2020
+2018,ACT,Physical activity,Self-rated physical activity,3. Moderately active,05 to 17,Female,21.9,Per cent,14.9,31.1,4.1,,,Female _ 3. Moderately active,2018 Female,Female 2018
+2020,ACT,Physical activity,Self-rated physical activity,3. Moderately active,05 to 17,Female,25.4,Per cent,20.8,30.6,2.5,,,Female _ 3. Moderately active,2020 Female,Female 2020
+2018,ACT,Physical activity,Self-rated physical activity,4. Not very active,05 to 17,Female,,Per cent,,,,,Not published,Female _ 4. Not very active,2018 Female,Female 2018
+2020,ACT,Physical activity,Self-rated physical activity,4. Not very active,05 to 17,Female,,Per cent,,,,,Not published,Female _ 4. Not very active,2020 Female,Female 2020
+2018,ACT,Physical activity,Self-rated physical activity,5. Not at all active,05 to 17,Female,,Per cent,,,,,Not published,Female _ 5. Not at all active,2018 Female,Female 2018
+2020,ACT,Physical activity,Self-rated physical activity,5. Not at all active,05 to 17,Female,,Per cent,,,,,Not published,Female _ 5. Not at all active,2020 Female,Female 2020
+2018,ACT,Physical activity,Self-rated physical activity,1. Very active,18+,Person,13.5,Per cent,11.2,16,1.2,,,Person _ 1.Very active,2018 Person,Person 2018
+2019,ACT,Physical activity,Self-rated physical activity,1. Very active,18+,Person,18.5,Per cent,16.3,20.9,1.2,,,Person _ 1. Very active,2019 Person,Person 2019
+2020,ACT,Physical activity,Self-rated physical activity,1. Very active,18+,Person,15.8,Per cent,13.1,19.1,1.5,,,Person _ 1. Very active,2020 Person,Person 2020
+2018,ACT,Physical activity,Self-rated physical activity,2. Active,18+,Person,29.1,Per cent,26.1,32.3,1.6,,,Person _ 2. Active,2018 Person,Person 2018
+2020,ACT,Physical activity,Self-rated physical activity,2. Active,18+,Person,29.2,Per cent,25.9,32.8,1.8,,,Person _ 2. Active,2020 Person,Person 2020
+2018,ACT,Physical activity,Self-rated physical activity,3. Moderately active,18+,Person,35.7,Per cent,32.5,39.1,1.7,,,Person _ 3. Moderately active,2018 Person,Person 2018
+2019,ACT,Physical activity,Self-rated physical activity,3. Moderately active,18+,Person,36.8,Per cent,34,39.7,1.5,,,Person _ 3. Moderately active,2019 Person,Person 2019
+2020,ACT,Physical activity,Self-rated physical activity,3. Moderately active,18+,Person,35.9,Per cent,32.3,39.7,1.9,,,Person _ 3. Moderately active,2020 Person,Person 2020
+2018,ACT,Physical activity,Self-rated physical activity,4. Not very active,18+,Person,18.9,Per cent,16.3,21.8,1.4,,,Person _ 4. Not very active,2018 Person,Person 2018
+2019,ACT,Physical activity,Self-rated physical activity,4. Not very active,18+,Person,15.9,Per cent,13.9,18.1,1.1,,,Person _ 4. Not very active,2019 Person,Person 2019
+2020,ACT,Physical activity,Self-rated physical activity,4. Not very active,18+,Person,15.1,Per cent,12.7,17.8,1.3,,,Person _ 4. Not very active,2020 Person,Person 2020
+2018,ACT,Physical activity,Self-rated physical activity,5. Not at all active,18+,Person,2.9,Per cent,1.9,4.3,0.6,,,Person _ 5. Not at all active,2018 Person,Person 2018
+2019,ACT,Physical activity,Self-rated physical activity,5. Not at all active,18+,Person,2.6,Per cent,1.8,3.6,0.5,,,Person _ 5. Not at all active,2019 Person,Person 2019
+2020,ACT,Physical activity,Self-rated physical activity,5. Not at all active,18+,Person,4,Per cent,2.8,5.8,0.8,,,Person _ 5. Not at all active,2020 Person,Person 2020
+2018,ACT,Physical activity,Self-rated physical activity,1. Very active,18+,Male,15,Per cent,11.7,18.9,1.8,,,Male _ 1. Very active,2018 Male,Male 2018
+2019,ACT,Physical activity,Self-rated physical activity,1. Very active,18+,Male,22.7,Per cent,19.2,26.7,1.9,,,Male _ 1. Very active,2019 Male,Male 2019
+2020,ACT,Physical activity,Self-rated physical activity,1. Very active,18+,Male,18.7,Per cent,14.5,23.8,2.4,,,Male _ 1. Very active,2020 Male,Male 2020
+2018,ACT,Physical activity,Self-rated physical activity,2. Active,18+,Male,34.3,Per cent,29.5,39.3,2.5,,,Male _ 2. Active,2018 Male,Male 2018
+2019,ACT,Physical activity,Self-rated physical activity,2. Active,18+,Male,28.3,Per cent,24.5,32.4,2,,,Male _ 2. Active,2019 Male,Male 2019
+2020,ACT,Physical activity,Self-rated physical activity,2. Active,18+,Male,35.5,Per cent,30.4,41,2.7,,,Male _ 2. Active,2020 Male,Male 2020
+2018,ACT,Physical activity,Self-rated physical activity,3. Moderately active,18+,Male,33,Per cent,28.3,38,2.5,,,Male _ 3. Moderately active,2018 Male,Male 2018
+2019,ACT,Physical activity,Self-rated physical activity,3. Moderately active,18+,Male,33.6,Per cent,29.5,37.9,2.2,,,Male _ 3. Moderately active,2019 Male,Male 2019
+2020,ACT,Physical activity,Self-rated physical activity,3. Moderately active,18+,Male,31.9,Per cent,26.9,37.4,2.7,,,Male _ 3. Moderately active,2020 Male,Male 2020
+2018,ACT,Physical activity,Self-rated physical activity,4. Not very active,18+,Male,15.3,Per cent,12,19.5,1.9,,,Male _ 4. Not very active,2018 Male,Male 2018
+2019,ACT,Physical activity,Self-rated physical activity,4. Not very active,18+,Male,13.6,Per cent,11,16.8,1.5,,,Male _ 4. Not very active,2019 Male,Male 2019
+2020,ACT,Physical activity,Self-rated physical activity,4. Not very active,18+,Male,10.8,Per cent,8,14.5,1.6,,,Male _ 4. Not very active,2020 Male,Male 2020
+2018,ACT,Physical activity,Self-rated physical activity,5. Not at all active,18+,Male,2.5,Per cent,1.3,4.8,0.8,33,,Male _ 5. Not at all active,2018 Male,Male 2018
+2019,ACT,Physical activity,Self-rated physical activity,5. Not at all active,18+,Male,1.8,Per cent,0.9,3.4,0.6,33.7,,Male _ 5. Not at all active,2019 Male,Male 2019
+2020,ACT,Physical activity,Self-rated physical activity,5. Not at all active,18+,Male,3,Per cent,1.8,5.2,0.8,27.6,,Male _ 5. Not at all active,2020 Male,Male 2020
+2018,ACT,Physical activity,Self-rated physical activity,1. Very active,18+,Female,12,Per cent,9.1,15.6,1.6,,,Female _ 1. Very active,2018 Female,Female 2018
+2019,ACT,Physical activity,Self-rated physical activity,1. Very active,18+,Female,14.3,Per cent,11.8,17.2,1.4,,,Female _ 1. Very active,2019 Female,Female 2019
+2020,ACT,Physical activity,Self-rated physical activity,1. Very active,18+,Female,12.5,Per cent,9.3,16.6,1.8,,,Female _ 1. Very active,2020 Female,Female 2020
+2018,ACT,Physical activity,Self-rated physical activity,2. Active,18+,Female,24.1,Per cent,20.4,28.2,2,,,Female _ 2. Active,2018 Female,Female 2018
+2019,ACT,Physical activity,Self-rated physical activity,2. Active,18+,Female,24.3,Per cent,21.2,27.7,1.7,,,Female _ 2. Active,2019 Female,Female 2019
+2020,ACT,Physical activity,Self-rated physical activity,2. Active,18+,Female,23.1,Per cent,19,27.8,2.3,,,Female _ 2. Active,2020 Female,Female 2020
